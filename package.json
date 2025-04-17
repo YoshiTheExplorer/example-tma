@@ -4,7 +4,7 @@
   "version": "0.0.5",
   "description": "Telegram MiniApp that act as a frontend for the tac-faucet-contracts used to implement an ERC20/Jetton Faucet for TAC Turin testnet",
   "type": "module",
-  "homepage": "https://tac.build",
+  "homepage": "https://YoshiTheExplorer.github.io/example-tma",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
